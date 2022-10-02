@@ -1,0 +1,2 @@
+# sqlformat
+sql format precompile
